@@ -49,7 +49,9 @@ single-pass and non-adaptive (no memory or feedback loop).
 
 To ensure deterministic reproducibility:
 
-Subset selection is performed using a fixed random seed (RANDOM_SEED = 42) to  ensure deterministic reproducibility.All predictions and labels are cached in task2_subset_results.csv.
+Subset selection is performed using a fixed random seed (RANDOM_SEED = 42) to  ensure deterministic reproducibility.
+
+All predictions and labels are cached in task2_subset_results.csv.
 
 This allows metric verification without re-running API calls.
 
