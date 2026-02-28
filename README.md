@@ -2,8 +2,7 @@
 ## Reproducibility and Agentic Extension Study of UNBench Task 2
 
 This repository contains the reproducibility study and methodological extension
-for **UNBench Task 2 – Representatives Voting Simulation**, completed for  
-**FTEC5660: Agentic AI for Business and FinTech**.
+for **UNBench Task 2 – Representatives Voting Simulation**, completed for **FTEC5660: Agentic AI for Business and FinTech**.
 
 The project reproduces the evaluation protocol of Task 2 and investigates
 whether structured reasoning (a minimal agentic decomposition) improves
@@ -50,8 +49,7 @@ single-pass and non-adaptive (no memory or feedback loop).
 
 To ensure deterministic reproducibility:
 
-- Selected draft IDs are stored in `selected_draft_ids.csv`
-- All predictions and labels are cached in `task2_subset_results.csv`
+Subset selection is performed using a fixed random seed (RANDOM_SEED = 42) to  ensure deterministic reproducibility.All predictions and labels are cached in task2_subset_results.csv.
 
 This allows metric verification without re-running API calls.
 
