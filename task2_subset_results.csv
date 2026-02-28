@@ -1,0 +1,751 @@
+Country,Original_id,Authors,Voting,Date,baseline_pred,mod_pred
+CHINA,2136,['United States'],Y,2016-12-16,N,Y
+FRANCE,2136,['United States'],Y,2016-12-16,Y,Y
+NEW ZEALAND,2136,['United States'],Y,2016-12-16,A,Y
+RUSSIAN FEDERATION,2136,['United States'],Y,2016-12-16,N,Y
+SPAIN,2136,['United States'],Y,2016-12-16,Y,Y
+UNITED KINGDOM,2136,['United States'],Y,2016-12-16,Y,Y
+UNITED STATES,2136,['United States'],Y,2016-12-16,A,Y
+EGYPT,2136,['United States'],Y,2016-12-16,A,Y
+JAPAN,2136,['United States'],Y,2016-12-16,Y,Y
+MALAYSIA,2136,['United States'],Y,2016-12-16,Y,Y
+UKRAINE,2136,['United States'],Y,2016-12-16,A,Y
+ANGOLA,2136,['United States'],Y,2016-12-16,Y,Y
+VENEZUELA (BOLIVARIAN REPUBLIC OF),2136,['United States'],Y,2016-12-16,N,Y
+SENEGAL,2136,['United States'],Y,2016-12-16,Y,Y
+URUGUAY,2136,['United States'],Y,2016-12-16,A,Y
+CHINA,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,N,Y
+FRANCE,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+RUSSIAN FEDERATION,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,N,Y
+UNITED KINGDOM,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+UNITED STATES,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+ITALY,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+EGYPT,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+JAPAN,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+SWEDEN,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+UKRAINE,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+SENEGAL,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+URUGUAY,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+ETHIOPIA,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+KAZAKHSTAN,2157,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States']",Y,2017-03-31,Y,Y
+CHINA,2160,['United States'],Y,2017-04-28,N,Y
+FRANCE,2160,['United States'],Y,2017-04-28,Y,Y
+RUSSIAN FEDERATION,2160,['United States'],Y,2017-04-28,N,Y
+UNITED KINGDOM,2160,['United States'],Y,2017-04-28,Y,Y
+UNITED STATES,2160,['United States'],Y,2017-04-28,A,Y
+ITALY,2160,['United States'],Y,2017-04-28,Y,Y
+EGYPT,2160,['United States'],Y,2017-04-28,Y,Y
+JAPAN,2160,['United States'],Y,2017-04-28,Y,Y
+SWEDEN,2160,['United States'],Y,2017-04-28,Y,Y
+UKRAINE,2160,['United States'],Y,2017-04-28,A,Y
+SENEGAL,2160,['United States'],Y,2017-04-28,Y,Y
+URUGUAY,2160,['United States'],Y,2017-04-28,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2160,['United States'],Y,2017-04-28,Y,Y
+ETHIOPIA,2160,['United States'],Y,2017-04-28,A,Y
+KAZAKHSTAN,2160,['United States'],Y,2017-04-28,Y,Y
+CHINA,2166,['United Kingdom'],Y,2017-06-12,N,Y
+FRANCE,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+RUSSIAN FEDERATION,2166,['United Kingdom'],Y,2017-06-12,N,Y
+UNITED KINGDOM,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+UNITED STATES,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+ITALY,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+EGYPT,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+JAPAN,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+SWEDEN,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+UKRAINE,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+SENEGAL,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+URUGUAY,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2166,['United Kingdom'],Y,2017-06-12,Y,Y
+ETHIOPIA,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+KAZAKHSTAN,2166,['United Kingdom'],Y,2017-06-12,Y,Y
+CHINA,2183,['France'],Y,2017-09-05,A,Y
+FRANCE,2183,['France'],Y,2017-09-05,Y,Y
+RUSSIAN FEDERATION,2183,['France'],Y,2017-09-05,N,Y
+UNITED KINGDOM,2183,['France'],Y,2017-09-05,Y,Y
+UNITED STATES,2183,['France'],Y,2017-09-05,Y,Y
+ITALY,2183,['France'],Y,2017-09-05,Y,Y
+EGYPT,2183,['France'],Y,2017-09-05,Y,Y
+JAPAN,2183,['France'],Y,2017-09-05,Y,Y
+SWEDEN,2183,['France'],Y,2017-09-05,Y,Y
+UKRAINE,2183,['France'],Y,2017-09-05,A,Y
+SENEGAL,2183,['France'],Y,2017-09-05,Y,Y
+URUGUAY,2183,['France'],Y,2017-09-05,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2183,['France'],Y,2017-09-05,A,Y
+ETHIOPIA,2183,['France'],Y,2017-09-05,Y,Y
+KAZAKHSTAN,2183,['France'],Y,2017-09-05,Y,Y
+CHINA,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,N,Y
+FRANCE,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+RUSSIAN FEDERATION,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,N,Y
+UNITED KINGDOM,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+UNITED STATES,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,A,Y
+ITALY,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+EGYPT,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,A,Y
+JAPAN,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+SWEDEN,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+UKRAINE,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,A,Y
+SENEGAL,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+URUGUAY,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,A,Y
+ETHIOPIA,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,A,Y
+KAZAKHSTAN,2199,"['Egypt', 'Ethiopia', 'Senegal']",Y,2017-12-08,A,Y
+CHINA,2201,"['Egypt', 'Japan', 'Sweden']",A,2017-12-19,N,Y
+FRANCE,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+RUSSIAN FEDERATION,2201,"['Egypt', 'Japan', 'Sweden']",A,2017-12-19,N,Y
+UNITED KINGDOM,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+UNITED STATES,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+ITALY,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+EGYPT,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,A,Y
+JAPAN,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+SWEDEN,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+UKRAINE,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,A,Y
+SENEGAL,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+URUGUAY,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2201,"['Egypt', 'Japan', 'Sweden']",A,2017-12-19,A,Y
+ETHIOPIA,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,A,Y
+KAZAKHSTAN,2201,"['Egypt', 'Japan', 'Sweden']",Y,2017-12-19,A,Y
+CHINA,2202,"['Russian Federation', 'United States']",Y,2017-12-21,N,Y
+FRANCE,2202,"['Russian Federation', 'United States']",Y,2017-12-21,Y,Y
+RUSSIAN FEDERATION,2202,"['Russian Federation', 'United States']",Y,2017-12-21,N,Y
+UNITED KINGDOM,2202,"['Russian Federation', 'United States']",Y,2017-12-21,Y,Y
+UNITED STATES,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+ITALY,2202,"['Russian Federation', 'United States']",Y,2017-12-21,Y,Y
+EGYPT,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+JAPAN,2202,"['Russian Federation', 'United States']",Y,2017-12-21,Y,Y
+SWEDEN,2202,"['Russian Federation', 'United States']",Y,2017-12-21,Y,Y
+UKRAINE,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+SENEGAL,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+URUGUAY,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+BOLIVIA (PLURINATIONAL STATE OF),2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+ETHIOPIA,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+KAZAKHSTAN,2202,"['Russian Federation', 'United States']",Y,2017-12-21,A,Y
+CHINA,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,A,Y
+FRANCE,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+RUSSIAN FEDERATION,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,N,Y
+UNITED KINGDOM,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+UNITED STATES,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+ITALY,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+EGYPT,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,A,Y
+JAPAN,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+SWEDEN,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+UKRAINE,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+SENEGAL,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,Y,Y
+URUGUAY,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,A,Y
+BOLIVIA (PLURINATIONAL STATE OF),2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,A,Y
+ETHIOPIA,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,A,Y
+KAZAKHSTAN,2204,"['Ethiopia', 'France', 'Italy', 'Japan', 'Senegal', 'Sweden', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']",Y,2017-12-21,A,Y
+CHINA,2205,['United States'],Y,2017-12-22,N,A
+FRANCE,2205,['United States'],Y,2017-12-22,Y,Y
+RUSSIAN FEDERATION,2205,['United States'],Y,2017-12-22,N,N
+UNITED KINGDOM,2205,['United States'],Y,2017-12-22,Y,Y
+UNITED STATES,2205,['United States'],Y,2017-12-22,N,Y
+ITALY,2205,['United States'],Y,2017-12-22,Y,Y
+EGYPT,2205,['United States'],Y,2017-12-22,A,Y
+JAPAN,2205,['United States'],Y,2017-12-22,Y,Y
+SWEDEN,2205,['United States'],Y,2017-12-22,Y,Y
+UKRAINE,2205,['United States'],Y,2017-12-22,Y,Y
+SENEGAL,2205,['United States'],Y,2017-12-22,A,Y
+URUGUAY,2205,['United States'],Y,2017-12-22,A,Y
+BOLIVIA (PLURINATIONAL STATE OF),2205,['United States'],Y,2017-12-22,A,Y
+ETHIOPIA,2205,['United States'],Y,2017-12-22,A,Y
+KAZAKHSTAN,2205,['United States'],Y,2017-12-22,A,Y
+CHINA,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+FRANCE,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+RUSSIAN FEDERATION,2206,['United Kingdom'],Y,2018-01-30,A,Y
+UNITED KINGDOM,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+UNITED STATES,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+POLAND,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+SWEDEN,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+NETHERLANDS,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+PERU,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2206,['United Kingdom'],Y,2018-01-30,Y,Y
+ETHIOPIA,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+KAZAKHSTAN,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+CÔTE D'IVOIRE,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+EQUATORIAL GUINEA,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+KUWAIT,2206,['United Kingdom'],Y,2018-01-30,Y,Y
+CHINA,2207,['France'],Y,2018-01-30,Y,Y
+FRANCE,2207,['France'],Y,2018-01-30,Y,Y
+RUSSIAN FEDERATION,2207,['France'],Y,2018-01-30,N,Y
+UNITED KINGDOM,2207,['France'],Y,2018-01-30,Y,Y
+UNITED STATES,2207,['France'],Y,2018-01-30,Y,Y
+POLAND,2207,['France'],Y,2018-01-30,Y,Y
+SWEDEN,2207,['France'],Y,2018-01-30,Y,Y
+NETHERLANDS,2207,['France'],Y,2018-01-30,Y,Y
+PERU,2207,['France'],Y,2018-01-30,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2207,['France'],Y,2018-01-30,Y,Y
+ETHIOPIA,2207,['France'],Y,2018-01-30,Y,Y
+KAZAKHSTAN,2207,['France'],Y,2018-01-30,Y,Y
+CÔTE D'IVOIRE,2207,['France'],Y,2018-01-30,Y,Y
+EQUATORIAL GUINEA,2207,['France'],Y,2018-01-30,Y,Y
+KUWAIT,2207,['France'],Y,2018-01-30,Y,Y
+CHINA,2222,['United States'],Y,2018-05-15,A,Y
+FRANCE,2222,['United States'],Y,2018-05-15,Y,Y
+RUSSIAN FEDERATION,2222,['United States'],Y,2018-05-15,N,Y
+UNITED KINGDOM,2222,['United States'],Y,2018-05-15,Y,Y
+UNITED STATES,2222,['United States'],Y,2018-05-15,Y,Y
+POLAND,2222,['United States'],Y,2018-05-15,Y,Y
+SWEDEN,2222,['United States'],Y,2018-05-15,Y,Y
+NETHERLANDS,2222,['United States'],Y,2018-05-15,Y,Y
+PERU,2222,['United States'],Y,2018-05-15,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2222,['United States'],Y,2018-05-15,A,Y
+ETHIOPIA,2222,['United States'],Y,2018-05-15,Y,Y
+KAZAKHSTAN,2222,['United States'],Y,2018-05-15,Y,Y
+CÔTE D'IVOIRE,2222,['United States'],Y,2018-05-15,Y,Y
+EQUATORIAL GUINEA,2222,['United States'],Y,2018-05-15,A,Y
+KUWAIT,2222,['United States'],Y,2018-05-15,Y,Y
+CHINA,2245,['United States'],Y,2018-10-11,A,Y
+FRANCE,2245,['United States'],Y,2018-10-11,A,Y
+RUSSIAN FEDERATION,2245,['United States'],Y,2018-10-11,N,Y
+UNITED KINGDOM,2245,['United States'],Y,2018-10-11,A,Y
+UNITED STATES,2245,['United States'],Y,2018-10-11,A,Y
+POLAND,2245,['United States'],Y,2018-10-11,A,Y
+SWEDEN,2245,['United States'],Y,2018-10-11,Y,Y
+NETHERLANDS,2245,['United States'],Y,2018-10-11,Y,Y
+PERU,2245,['United States'],Y,2018-10-11,A,Y
+BOLIVIA (PLURINATIONAL STATE OF),2245,['United States'],Y,2018-10-11,A,Y
+ETHIOPIA,2245,['United States'],Y,2018-10-11,A,Y
+KAZAKHSTAN,2245,['United States'],Y,2018-10-11,A,Y
+CÔTE D'IVOIRE,2245,['United States'],Y,2018-10-11,Y,Y
+EQUATORIAL GUINEA,2245,['United States'],Y,2018-10-11,A,Y
+KUWAIT,2245,['United States'],Y,2018-10-11,A,Y
+CHINA,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+FRANCE,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+RUSSIAN FEDERATION,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,N,Y
+UNITED KINGDOM,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+UNITED STATES,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+POLAND,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+SWEDEN,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+NETHERLANDS,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+PERU,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+BOLIVIA (PLURINATIONAL STATE OF),2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+ETHIOPIA,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+KAZAKHSTAN,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+CÔTE D'IVOIRE,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+EQUATORIAL GUINEA,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+KUWAIT,2256,"[""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Netherlands', 'Peru', 'Poland', 'Sweden', 'United Kingdom', 'United States']",Y,2018-12-13,Y,Y
+CHINA,2270,['France'],Y,2019-03-29,A,Y
+FRANCE,2270,['France'],Y,2019-03-29,Y,Y
+RUSSIAN FEDERATION,2270,['France'],Y,2019-03-29,N,Y
+UNITED KINGDOM,2270,['France'],Y,2019-03-29,Y,Y
+UNITED STATES,2270,['France'],Y,2019-03-29,Y,Y
+GERMANY,2270,['France'],Y,2019-03-29,Y,Y
+INDONESIA,2270,['France'],Y,2019-03-29,Y,Y
+POLAND,2270,['France'],Y,2019-03-29,Y,Y
+PERU,2270,['France'],Y,2019-03-29,Y,Y
+BELGIUM,2270,['France'],Y,2019-03-29,Y,Y
+SOUTH AFRICA,2270,['France'],Y,2019-03-29,Y,Y
+CÔTE D'IVOIRE,2270,['France'],Y,2019-03-29,Y,Y
+EQUATORIAL GUINEA,2270,['France'],Y,2019-03-29,Y,Y
+KUWAIT,2270,['France'],Y,2019-03-29,Y,Y
+DOMINICAN REPUBLIC,2270,['France'],Y,2019-03-29,Y,Y
+CHINA,2271,['United States'],Y,2019-04-10,N,Y
+FRANCE,2271,['United States'],Y,2019-04-10,N,Y
+RUSSIAN FEDERATION,2271,['United States'],Y,2019-04-10,N,Y
+UNITED KINGDOM,2271,['United States'],Y,2019-04-10,N,Y
+UNITED STATES,2271,['United States'],Y,2019-04-10,N,Y
+GERMANY,2271,['United States'],Y,2019-04-10,Y,Y
+INDONESIA,2271,['United States'],Y,2019-04-10,A,Y
+POLAND,2271,['United States'],Y,2019-04-10,Y,Y
+PERU,2271,['United States'],Y,2019-04-10,A,Y
+BELGIUM,2271,['United States'],Y,2019-04-10,Y,Y
+SOUTH AFRICA,2271,['United States'],Y,2019-04-10,A,Y
+CÔTE D'IVOIRE,2271,['United States'],Y,2019-04-10,Y,Y
+EQUATORIAL GUINEA,2271,['United States'],Y,2019-04-10,A,Y
+KUWAIT,2271,['United States'],Y,2019-04-10,Y,Y
+DOMINICAN REPUBLIC,2271,['United States'],Y,2019-04-10,A,Y
+CHINA,2275,['United States'],Y,2019-04-30,N,Y
+FRANCE,2275,['United States'],Y,2019-04-30,Y,Y
+RUSSIAN FEDERATION,2275,['United States'],A,2019-04-30,N,Y
+UNITED KINGDOM,2275,['United States'],Y,2019-04-30,Y,Y
+UNITED STATES,2275,['United States'],Y,2019-04-30,Y,Y
+GERMANY,2275,['United States'],Y,2019-04-30,Y,Y
+INDONESIA,2275,['United States'],Y,2019-04-30,Y,Y
+POLAND,2275,['United States'],Y,2019-04-30,Y,Y
+PERU,2275,['United States'],Y,2019-04-30,Y,Y
+BELGIUM,2275,['United States'],Y,2019-04-30,Y,Y
+SOUTH AFRICA,2275,['United States'],A,2019-04-30,A,Y
+CÔTE D'IVOIRE,2275,['United States'],Y,2019-04-30,A,Y
+EQUATORIAL GUINEA,2275,['United States'],Y,2019-04-30,A,Y
+KUWAIT,2275,['United States'],Y,2019-04-30,Y,Y
+DOMINICAN REPUBLIC,2275,['United States'],Y,2019-04-30,Y,Y
+CHINA,2278,['United States'],A,2019-05-30,N,Y
+FRANCE,2278,['United States'],Y,2019-05-30,Y,Y
+RUSSIAN FEDERATION,2278,['United States'],A,2019-05-30,N,Y
+UNITED KINGDOM,2278,['United States'],Y,2019-05-30,Y,Y
+UNITED STATES,2278,['United States'],Y,2019-05-30,Y,Y
+GERMANY,2278,['United States'],Y,2019-05-30,Y,Y
+INDONESIA,2278,['United States'],Y,2019-05-30,Y,Y
+POLAND,2278,['United States'],Y,2019-05-30,Y,Y
+PERU,2278,['United States'],Y,2019-05-30,Y,Y
+BELGIUM,2278,['United States'],Y,2019-05-30,Y,Y
+SOUTH AFRICA,2278,['United States'],A,2019-05-30,A,Y
+CÔTE D'IVOIRE,2278,['United States'],A,2019-05-30,Y,Y
+EQUATORIAL GUINEA,2278,['United States'],A,2019-05-30,A,Y
+KUWAIT,2278,['United States'],Y,2019-05-30,Y,Y
+DOMINICAN REPUBLIC,2278,['United States'],Y,2019-05-30,Y,Y
+CHINA,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+FRANCE,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+RUSSIAN FEDERATION,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,N,Y
+UNITED KINGDOM,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+UNITED STATES,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+GERMANY,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+INDONESIA,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+POLAND,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+PERU,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+BELGIUM,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+SOUTH AFRICA,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+CÔTE D'IVOIRE,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+EQUATORIAL GUINEA,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+KUWAIT,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+DOMINICAN REPUBLIC,2282,"['Albania', 'Angola', 'Argentina', 'Australia', 'Austria', 'Belgium', 'Bulgaria', 'Canada', 'Central African Republic', 'Costa Rica', ""Côte d'Ivoire"", 'Croatia', 'Cyprus', 'Czechia', 'Djibouti', 'Dominican Republic', 'Ecuador', 'Egypt', 'Equatorial Guinea', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Guatemala', 'Hungary', 'Iceland', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Kuwait', 'Latvia', 'Lebanon', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Mexico', 'Montenegro', 'Morocco', 'Netherlands', 'New Zealand', 'North Macedonia', 'Norway', 'Peru', 'Poland', 'Portugal', 'Qatar', 'Republic of Korea', 'Republic of Moldova', 'San Marino', 'Serbia', 'Sierra Leone', 'Slovakia', 'Slovenia', 'Somalia', 'South Africa', 'Spain', 'Sweden', 'Switzerland', 'Turkey', 'Ukraine', 'United Kingdom', 'United States']",Y,2019-06-20,Y,Y
+CHINA,2285,"['Russian Federation', 'United States']",Y,2019-06-26,A,Y
+FRANCE,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+RUSSIAN FEDERATION,2285,"['Russian Federation', 'United States']",Y,2019-06-26,N,Y
+UNITED KINGDOM,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+UNITED STATES,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+GERMANY,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+INDONESIA,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+POLAND,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+PERU,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+BELGIUM,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+SOUTH AFRICA,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+CÔTE D'IVOIRE,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+EQUATORIAL GUINEA,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+KUWAIT,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+DOMINICAN REPUBLIC,2285,"['Russian Federation', 'United States']",Y,2019-06-26,Y,Y
+CHINA,2295,['United Kingdom'],Y,2019-09-12,A,Y
+FRANCE,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+RUSSIAN FEDERATION,2295,['United Kingdom'],Y,2019-09-12,N,Y
+UNITED KINGDOM,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+UNITED STATES,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+GERMANY,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+INDONESIA,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+POLAND,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+PERU,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+BELGIUM,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+SOUTH AFRICA,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+CÔTE D'IVOIRE,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+EQUATORIAL GUINEA,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+KUWAIT,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+DOMINICAN REPUBLIC,2295,['United Kingdom'],Y,2019-09-12,Y,Y
+CHINA,2305,['United Kingdom'],A,2019-11-15,N,Y
+FRANCE,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+RUSSIAN FEDERATION,2305,['United Kingdom'],A,2019-11-15,N,Y
+UNITED KINGDOM,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+UNITED STATES,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+GERMANY,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+INDONESIA,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+POLAND,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+PERU,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+BELGIUM,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+SOUTH AFRICA,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+CÔTE D'IVOIRE,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+EQUATORIAL GUINEA,2305,['United Kingdom'],A,2019-11-15,Y,Y
+KUWAIT,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+DOMINICAN REPUBLIC,2305,['United Kingdom'],Y,2019-11-15,Y,Y
+CHINA,2307,['United States'],Y,2019-12-16,A,Y
+FRANCE,2307,['United States'],Y,2019-12-16,Y,Y
+RUSSIAN FEDERATION,2307,['United States'],Y,2019-12-16,N,Y
+UNITED KINGDOM,2307,['United States'],Y,2019-12-16,Y,Y
+UNITED STATES,2307,['United States'],Y,2019-12-16,Y,Y
+GERMANY,2307,['United States'],Y,2019-12-16,Y,Y
+INDONESIA,2307,['United States'],Y,2019-12-16,Y,Y
+POLAND,2307,['United States'],Y,2019-12-16,Y,Y
+PERU,2307,['United States'],Y,2019-12-16,Y,Y
+BELGIUM,2307,['United States'],Y,2019-12-16,Y,Y
+SOUTH AFRICA,2307,['United States'],Y,2019-12-16,Y,Y
+CÔTE D'IVOIRE,2307,['United States'],Y,2019-12-16,Y,Y
+EQUATORIAL GUINEA,2307,['United States'],Y,2019-12-16,Y,Y
+KUWAIT,2307,['United States'],Y,2019-12-16,Y,Y
+DOMINICAN REPUBLIC,2307,['United States'],Y,2019-12-16,Y,Y
+CHINA,2324,['United Kingdom'],Y,2020-03-30,A,Y
+FRANCE,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+RUSSIAN FEDERATION,2324,['United Kingdom'],Y,2020-03-30,N,Y
+UNITED KINGDOM,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+UNITED STATES,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+GERMANY,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+INDONESIA,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+TUNISIA,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+BELGIUM,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+SOUTH AFRICA,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+VIET NAM,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+DOMINICAN REPUBLIC,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+ESTONIA,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+NIGER,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+SAINT VINCENT AND THE GRENADINES,2324,['United Kingdom'],Y,2020-03-30,Y,Y
+CHINA,2326,['United States'],A,2020-05-29,A,Y
+FRANCE,2326,['United States'],Y,2020-05-29,Y,Y
+RUSSIAN FEDERATION,2326,['United States'],A,2020-05-29,N,Y
+UNITED KINGDOM,2326,['United States'],Y,2020-05-29,Y,Y
+UNITED STATES,2326,['United States'],Y,2020-05-29,Y,Y
+GERMANY,2326,['United States'],Y,2020-05-29,Y,Y
+INDONESIA,2326,['United States'],Y,2020-05-29,Y,Y
+TUNISIA,2326,['United States'],Y,2020-05-29,Y,Y
+BELGIUM,2326,['United States'],Y,2020-05-29,Y,Y
+SOUTH AFRICA,2326,['United States'],A,2020-05-29,Y,Y
+VIET NAM,2326,['United States'],Y,2020-05-29,Y,Y
+DOMINICAN REPUBLIC,2326,['United States'],Y,2020-05-29,Y,Y
+ESTONIA,2326,['United States'],Y,2020-05-29,Y,Y
+NIGER,2326,['United States'],Y,2020-05-29,Y,Y
+SAINT VINCENT AND THE GRENADINES,2326,['United States'],Y,2020-05-29,Y,Y
+CHINA,2338,"['France', 'Tunisia']",Y,2020-07-01,N,Y
+FRANCE,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+RUSSIAN FEDERATION,2338,"['France', 'Tunisia']",Y,2020-07-01,N,A
+UNITED KINGDOM,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+UNITED STATES,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+GERMANY,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+INDONESIA,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+TUNISIA,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+BELGIUM,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+SOUTH AFRICA,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+VIET NAM,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+DOMINICAN REPUBLIC,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+ESTONIA,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+NIGER,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+SAINT VINCENT AND THE GRENADINES,2338,"['France', 'Tunisia']",Y,2020-07-01,Y,Y
+CHINA,2350,['United Kingdom'],Y,2020-09-18,N,Y
+FRANCE,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+RUSSIAN FEDERATION,2350,['United Kingdom'],Y,2020-09-18,N,Y
+UNITED KINGDOM,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+UNITED STATES,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+GERMANY,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+INDONESIA,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+TUNISIA,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+BELGIUM,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+SOUTH AFRICA,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+VIET NAM,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+DOMINICAN REPUBLIC,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+ESTONIA,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+NIGER,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+SAINT VINCENT AND THE GRENADINES,2350,['United Kingdom'],Y,2020-09-18,Y,Y
+CHINA,2355,['United States'],Y,2020-11-05,N,Y
+FRANCE,2355,['United States'],Y,2020-11-05,Y,Y
+RUSSIAN FEDERATION,2355,['United States'],Y,2020-11-05,N,N
+UNITED KINGDOM,2355,['United States'],Y,2020-11-05,Y,Y
+UNITED STATES,2355,['United States'],Y,2020-11-05,Y,Y
+GERMANY,2355,['United States'],Y,2020-11-05,Y,Y
+INDONESIA,2355,['United States'],Y,2020-11-05,A,Y
+TUNISIA,2355,['United States'],Y,2020-11-05,A,Y
+BELGIUM,2355,['United States'],Y,2020-11-05,Y,Y
+SOUTH AFRICA,2355,['United States'],Y,2020-11-05,A,Y
+VIET NAM,2355,['United States'],Y,2020-11-05,A,Y
+DOMINICAN REPUBLIC,2355,['United States'],Y,2020-11-05,Y,Y
+ESTONIA,2355,['United States'],Y,2020-11-05,Y,Y
+NIGER,2355,['United States'],Y,2020-11-05,A,Y
+SAINT VINCENT AND THE GRENADINES,2355,['United States'],Y,2020-11-05,A,Y
+CHINA,2368,['United States'],Y,2021-02-11,Y,Y
+FRANCE,2368,['United States'],Y,2021-02-11,Y,Y
+RUSSIAN FEDERATION,2368,['United States'],Y,2021-02-11,N,Y
+UNITED KINGDOM,2368,['United States'],Y,2021-02-11,Y,Y
+UNITED STATES,2368,['United States'],Y,2021-02-11,Y,Y
+KENYA,2368,['United States'],Y,2021-02-11,Y,Y
+TUNISIA,2368,['United States'],Y,2021-02-11,Y,Y
+IRELAND,2368,['United States'],Y,2021-02-11,Y,Y
+NORWAY,2368,['United States'],Y,2021-02-11,Y,Y
+MEXICO,2368,['United States'],Y,2021-02-11,Y,Y
+VIET NAM,2368,['United States'],Y,2021-02-11,Y,Y
+INDIA,2368,['United States'],Y,2021-02-11,Y,Y
+ESTONIA,2368,['United States'],Y,2021-02-11,Y,Y
+NIGER,2368,['United States'],Y,2021-02-11,Y,Y
+SAINT VINCENT AND THE GRENADINES,2368,['United States'],Y,2021-02-11,Y,Y
+CHINA,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+FRANCE,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+RUSSIAN FEDERATION,2380,['United Kingdom'],Y,2021-05-11,N,Y
+UNITED KINGDOM,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+UNITED STATES,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+KENYA,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+TUNISIA,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+IRELAND,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+NORWAY,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+MEXICO,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+VIET NAM,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+INDIA,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+ESTONIA,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+NIGER,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+SAINT VINCENT AND THE GRENADINES,2380,['United Kingdom'],Y,2021-05-11,Y,Y
+CHINA,2401,['United Kingdom'],Y,2021-09-17,N,Y
+FRANCE,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+RUSSIAN FEDERATION,2401,['United Kingdom'],Y,2021-09-17,N,Y
+UNITED KINGDOM,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+UNITED STATES,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+KENYA,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+TUNISIA,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+IRELAND,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+NORWAY,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+MEXICO,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+VIET NAM,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+INDIA,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+ESTONIA,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+NIGER,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+SAINT VINCENT AND THE GRENADINES,2401,['United Kingdom'],Y,2021-09-17,Y,Y
+CHINA,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,A,Y
+FRANCE,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+RUSSIAN FEDERATION,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,N,Y
+UNITED KINGDOM,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+UNITED STATES,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+KENYA,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+TUNISIA,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+IRELAND,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+NORWAY,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+MEXICO,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+VIET NAM,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+INDIA,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+ESTONIA,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+NIGER,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+SAINT VINCENT AND THE GRENADINES,2407,"['Mexico', 'United Kingdom']",Y,2021-10-29,Y,Y
+BRAZIL,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+CHINA,2427,"['Albania', 'United States']",A,2022-02-27,N,N
+FRANCE,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+RUSSIAN FEDERATION,2427,"['Albania', 'United States']",N,2022-02-27,N,N
+UNITED KINGDOM,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+UNITED STATES,2427,"['Albania', 'United States']",Y,2022-02-27,A,Y
+KENYA,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+GABON,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+IRELAND,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+NORWAY,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+MEXICO,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+GHANA,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+INDIA,2427,"['Albania', 'United States']",A,2022-02-27,Y,Y
+ALBANIA,2427,"['Albania', 'United States']",Y,2022-02-27,Y,Y
+UNITED ARAB EMIRATES,2427,"['Albania', 'United States']",A,2022-02-27,Y,Y
+BRAZIL,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+CHINA,2448,"['Mexico', 'United States']",Y,2022-07-15,A,Y
+FRANCE,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+RUSSIAN FEDERATION,2448,"['Mexico', 'United States']",Y,2022-07-15,N,Y
+UNITED KINGDOM,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+UNITED STATES,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+KENYA,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+GABON,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+IRELAND,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+NORWAY,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+MEXICO,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+GHANA,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+INDIA,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+ALBANIA,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+UNITED ARAB EMIRATES,2448,"['Mexico', 'United States']",Y,2022-07-15,Y,Y
+BRAZIL,2461,['Ireland'],Y,2022-11-02,Y,Y
+CHINA,2461,['Ireland'],Y,2022-11-02,N,Y
+FRANCE,2461,['Ireland'],Y,2022-11-02,Y,Y
+RUSSIAN FEDERATION,2461,['Ireland'],Y,2022-11-02,N,N
+UNITED KINGDOM,2461,['Ireland'],Y,2022-11-02,Y,Y
+UNITED STATES,2461,['Ireland'],Y,2022-11-02,Y,Y
+KENYA,2461,['Ireland'],Y,2022-11-02,Y,Y
+GABON,2461,['Ireland'],Y,2022-11-02,Y,Y
+IRELAND,2461,['Ireland'],Y,2022-11-02,Y,Y
+NORWAY,2461,['Ireland'],Y,2022-11-02,Y,Y
+MEXICO,2461,['Ireland'],Y,2022-11-02,Y,Y
+GHANA,2461,['Ireland'],Y,2022-11-02,Y,Y
+INDIA,2461,['Ireland'],Y,2022-11-02,Y,Y
+ALBANIA,2461,['Ireland'],Y,2022-11-02,Y,Y
+UNITED ARAB EMIRATES,2461,['Ireland'],Y,2022-11-02,Y,Y
+BRAZIL,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+CHINA,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+FRANCE,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+RUSSIAN FEDERATION,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,N,Y
+UNITED KINGDOM,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+UNITED STATES,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+JAPAN,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+GABON,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+GHANA,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+ALBANIA,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+UNITED ARAB EMIRATES,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+ECUADOR,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+MALTA,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+MOZAMBIQUE,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+SWITZERLAND,2481,"['Japan', 'United Arab Emirates']",Y,2023-03-16,Y,Y
+BRAZIL,2482,['United States'],Y,2023-03-23,A,Y
+CHINA,2482,['United States'],Y,2023-03-23,N,Y
+FRANCE,2482,['United States'],Y,2023-03-23,Y,Y
+RUSSIAN FEDERATION,2482,['United States'],Y,2023-03-23,N,Y
+UNITED KINGDOM,2482,['United States'],Y,2023-03-23,Y,Y
+UNITED STATES,2482,['United States'],Y,2023-03-23,Y,Y
+JAPAN,2482,['United States'],Y,2023-03-23,Y,Y
+GABON,2482,['United States'],Y,2023-03-23,A,Y
+GHANA,2482,['United States'],Y,2023-03-23,A,Y
+ALBANIA,2482,['United States'],Y,2023-03-23,Y,Y
+UNITED ARAB EMIRATES,2482,['United States'],Y,2023-03-23,A,Y
+ECUADOR,2482,['United States'],Y,2023-03-23,A,Y
+MALTA,2482,['United States'],Y,2023-03-23,A,Y
+MOZAMBIQUE,2482,['United States'],Y,2023-03-23,A,Y
+SWITZERLAND,2482,['United States'],Y,2023-03-23,Y,Y
+BRAZIL,2492,['France'],Y,2023-06-30,N,Y
+CHINA,2492,['France'],Y,2023-06-30,N,Y
+FRANCE,2492,['France'],Y,2023-06-30,N,Y
+RUSSIAN FEDERATION,2492,['France'],Y,2023-06-30,N,Y
+UNITED KINGDOM,2492,['France'],Y,2023-06-30,N,Y
+UNITED STATES,2492,['France'],Y,2023-06-30,N,Y
+JAPAN,2492,['France'],Y,2023-06-30,N,Y
+GABON,2492,['France'],Y,2023-06-30,N,Y
+GHANA,2492,['France'],Y,2023-06-30,N,Y
+ALBANIA,2492,['France'],Y,2023-06-30,N,Y
+UNITED ARAB EMIRATES,2492,['France'],Y,2023-06-30,N,Y
+ECUADOR,2492,['France'],Y,2023-06-30,N,Y
+MALTA,2492,['France'],Y,2023-06-30,N,Y
+MOZAMBIQUE,2492,['France'],Y,2023-06-30,N,Y
+SWITZERLAND,2492,['France'],Y,2023-06-30,N,Y
+BRAZIL,2497,['France'],Y,2023-08-31,Y,Y
+CHINA,2497,['France'],A,2023-08-31,A,Y
+FRANCE,2497,['France'],Y,2023-08-31,Y,Y
+RUSSIAN FEDERATION,2497,['France'],A,2023-08-31,N,Y
+UNITED KINGDOM,2497,['France'],Y,2023-08-31,Y,Y
+UNITED STATES,2497,['France'],Y,2023-08-31,Y,Y
+JAPAN,2497,['France'],Y,2023-08-31,Y,Y
+GABON,2497,['France'],Y,2023-08-31,Y,Y
+GHANA,2497,['France'],Y,2023-08-31,Y,Y
+ALBANIA,2497,['France'],Y,2023-08-31,Y,Y
+UNITED ARAB EMIRATES,2497,['France'],Y,2023-08-31,Y,Y
+ECUADOR,2497,['France'],Y,2023-08-31,Y,Y
+MALTA,2497,['France'],Y,2023-08-31,Y,Y
+MOZAMBIQUE,2497,['France'],Y,2023-08-31,Y,Y
+SWITZERLAND,2497,['France'],Y,2023-08-31,Y,Y
+BRAZIL,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+CHINA,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+FRANCE,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+RUSSIAN FEDERATION,2504,['United Kingdom'],Y,2023-10-30,N,Y
+UNITED KINGDOM,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+UNITED STATES,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+JAPAN,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+GABON,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+GHANA,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+ALBANIA,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+UNITED ARAB EMIRATES,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+ECUADOR,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+MALTA,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+MOZAMBIQUE,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+SWITZERLAND,2504,['United Kingdom'],Y,2023-10-30,Y,Y
+BRAZIL,2505,['United States'],Y,2023-10-30,Y,Y
+CHINA,2505,['United States'],Y,2023-10-30,A,Y
+FRANCE,2505,['United States'],Y,2023-10-30,Y,Y
+RUSSIAN FEDERATION,2505,['United States'],A,2023-10-30,N,Y
+UNITED KINGDOM,2505,['United States'],Y,2023-10-30,Y,Y
+UNITED STATES,2505,['United States'],Y,2023-10-30,Y,Y
+JAPAN,2505,['United States'],Y,2023-10-30,Y,Y
+GABON,2505,['United States'],Y,2023-10-30,Y,Y
+GHANA,2505,['United States'],Y,2023-10-30,Y,Y
+ALBANIA,2505,['United States'],Y,2023-10-30,Y,Y
+UNITED ARAB EMIRATES,2505,['United States'],Y,2023-10-30,Y,Y
+ECUADOR,2505,['United States'],Y,2023-10-30,A,Y
+MALTA,2505,['United States'],Y,2023-10-30,Y,Y
+MOZAMBIQUE,2505,['United States'],A,2023-10-30,Y,Y
+SWITZERLAND,2505,['United States'],Y,2023-10-30,Y,Y
+BRAZIL,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+CHINA,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,A,Y
+FRANCE,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+RUSSIAN FEDERATION,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,N,Y
+UNITED KINGDOM,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+UNITED STATES,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,A,Y
+JAPAN,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+GABON,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+GHANA,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+ALBANIA,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+UNITED ARAB EMIRATES,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+ECUADOR,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+MALTA,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+MOZAMBIQUE,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+SWITZERLAND,2517,"['Gabon', 'Ghana', 'Mozambique']",Y,2023-12-21,Y,Y
+CHINA,2527,['United States'],Y,2024-03-14,Y,Y
+FRANCE,2527,['United States'],Y,2024-03-14,Y,Y
+RUSSIAN FEDERATION,2527,['United States'],Y,2024-03-14,N,Y
+UNITED KINGDOM,2527,['United States'],Y,2024-03-14,Y,Y
+UNITED STATES,2527,['United States'],Y,2024-03-14,Y,Y
+REPUBLIC OF KOREA,2527,['United States'],Y,2024-03-14,Y,Y
+JAPAN,2527,['United States'],Y,2024-03-14,Y,Y
+SLOVENIA,2527,['United States'],Y,2024-03-14,Y,Y
+ALGERIA,2527,['United States'],Y,2024-03-14,Y,Y
+ECUADOR,2527,['United States'],Y,2024-03-14,Y,Y
+MALTA,2527,['United States'],Y,2024-03-14,Y,Y
+MOZAMBIQUE,2527,['United States'],Y,2024-03-14,Y,Y
+SWITZERLAND,2527,['United States'],Y,2024-03-14,Y,Y
+GUYANA,2527,['United States'],Y,2024-03-14,Y,Y
+SIERRA LEONE,2527,['United States'],Y,2024-03-14,Y,Y
+CHINA,2533,['United States'],Y,2024-05-31,Y,Y
+FRANCE,2533,['United States'],Y,2024-05-31,Y,Y
+RUSSIAN FEDERATION,2533,['United States'],Y,2024-05-31,N,Y
+UNITED KINGDOM,2533,['United States'],Y,2024-05-31,Y,Y
+UNITED STATES,2533,['United States'],Y,2024-05-31,Y,Y
+REPUBLIC OF KOREA,2533,['United States'],Y,2024-05-31,Y,Y
+JAPAN,2533,['United States'],Y,2024-05-31,Y,Y
+SLOVENIA,2533,['United States'],Y,2024-05-31,Y,Y
+ALGERIA,2533,['United States'],Y,2024-05-31,Y,Y
+ECUADOR,2533,['United States'],Y,2024-05-31,Y,Y
+MALTA,2533,['United States'],Y,2024-05-31,Y,Y
+MOZAMBIQUE,2533,['United States'],Y,2024-05-31,Y,Y
+SWITZERLAND,2533,['United States'],Y,2024-05-31,Y,Y
+GUYANA,2533,['United States'],Y,2024-05-31,Y,Y
+SIERRA LEONE,2533,['United States'],Y,2024-05-31,Y,Y
+CHINA,2540,"['Japan', 'United States']",A,2024-06-27,A,Y
+FRANCE,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+RUSSIAN FEDERATION,2540,"['Japan', 'United States']",A,2024-06-27,N,Y
+UNITED KINGDOM,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+UNITED STATES,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+REPUBLIC OF KOREA,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+JAPAN,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+SLOVENIA,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+ALGERIA,2540,"['Japan', 'United States']",A,2024-06-27,A,Y
+ECUADOR,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+MALTA,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+MOZAMBIQUE,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+SWITZERLAND,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+GUYANA,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+SIERRA LEONE,2540,"['Japan', 'United States']",Y,2024-06-27,Y,Y
+CHINA,2547,"['France', 'Sierra Leone']",Y,2024-08-06,N,Y
+FRANCE,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+RUSSIAN FEDERATION,2547,"['France', 'Sierra Leone']",Y,2024-08-06,N,Y
+UNITED KINGDOM,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+UNITED STATES,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+REPUBLIC OF KOREA,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+JAPAN,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+SLOVENIA,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+ALGERIA,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+ECUADOR,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+MALTA,2547,"['France', 'Sierra Leone']",Y,2024-08-06,A,Y
+MOZAMBIQUE,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+SWITZERLAND,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+GUYANA,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+SIERRA LEONE,2547,"['France', 'Sierra Leone']",Y,2024-08-06,Y,Y
+CHINA,2550,['France'],Y,2024-08-28,A,Y
+FRANCE,2550,['France'],Y,2024-08-28,Y,Y
+RUSSIAN FEDERATION,2550,['France'],Y,2024-08-28,N,Y
+UNITED KINGDOM,2550,['France'],Y,2024-08-28,Y,Y
+UNITED STATES,2550,['France'],Y,2024-08-28,Y,Y
+REPUBLIC OF KOREA,2550,['France'],Y,2024-08-28,Y,Y
+JAPAN,2550,['France'],Y,2024-08-28,Y,Y
+SLOVENIA,2550,['France'],Y,2024-08-28,Y,Y
+ALGERIA,2550,['France'],Y,2024-08-28,A,Y
+ECUADOR,2550,['France'],Y,2024-08-28,Y,Y
+MALTA,2550,['France'],Y,2024-08-28,Y,Y
+MOZAMBIQUE,2550,['France'],Y,2024-08-28,Y,Y
+SWITZERLAND,2550,['France'],Y,2024-08-28,Y,Y
+GUYANA,2550,['France'],Y,2024-08-28,Y,Y
+SIERRA LEONE,2550,['France'],Y,2024-08-28,Y,Y
+CHINA,2553,"['Ecuador', 'United States']",Y,2024-10-18,N,Y
+FRANCE,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+RUSSIAN FEDERATION,2553,"['Ecuador', 'United States']",Y,2024-10-18,N,N
+UNITED KINGDOM,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+UNITED STATES,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+REPUBLIC OF KOREA,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+JAPAN,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+SLOVENIA,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+ALGERIA,2553,"['Ecuador', 'United States']",Y,2024-10-18,A,Y
+ECUADOR,2553,"['Ecuador', 'United States']",Y,2024-10-18,A,Y
+MALTA,2553,"['Ecuador', 'United States']",Y,2024-10-18,A,Y
+MOZAMBIQUE,2553,"['Ecuador', 'United States']",Y,2024-10-18,A,Y
+SWITZERLAND,2553,"['Ecuador', 'United States']",Y,2024-10-18,A,Y
+GUYANA,2553,"['Ecuador', 'United States']",Y,2024-10-18,Y,Y
+SIERRA LEONE,2553,"['Ecuador', 'United States']",Y,2024-10-18,A,Y
+CHINA,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+FRANCE,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+RUSSIAN FEDERATION,2554,['United Kingdom'],Y,2024-10-30,N,Y
+UNITED KINGDOM,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+UNITED STATES,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+REPUBLIC OF KOREA,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+JAPAN,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+SLOVENIA,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+ALGERIA,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+ECUADOR,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+MALTA,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+MOZAMBIQUE,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+SWITZERLAND,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+GUYANA,2554,['United Kingdom'],Y,2024-10-30,Y,Y
+SIERRA LEONE,2554,['United Kingdom'],Y,2024-10-30,Y,Y
